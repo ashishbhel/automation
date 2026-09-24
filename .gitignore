@@ -1,0 +1,6 @@
+__pycache__/
+handwritten_sum/build/*
+!handwritten_sum/build/*_int8.tflite
+!handwritten_sum/build/*_data.h
+handwritten_sum/samples/
+*.npz
