@@ -20,4 +20,5 @@ firmware/slip_reader/
   digit_pipeline.c/h C port of the front end (no ESP deps, unit-tested on a PC)
 ```
 
-RESULTS_PLACEHOLDER
+Status and next steps: see [CLAUDE.md](CLAUDE.md). The line model's training
+script has a known loss bug, so no trained model is committed yet.
